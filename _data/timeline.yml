@@ -108,25 +108,6 @@
     - tag: DB, OS, SAP - Patching and everyday tasks
   timeline-side: right
 
-- title: HMEI Zrt. (Honvédelmi Minisztérium EI. Zrt.)
-  date: Sep 2014 - Oct 2018
-  subtitle: Lead System Engineer
-  tags:
-    - tag: Oracle Database (8i-12c)
-    - tag: Linux (SUSE Linux Enterprise Edition, Debian)
-    - tag: SAP BASIS (ABAP+Java Stack)
-    - tag: HP Data Protector (10-10.01)
-    - tag: VMware ESXI
-    - tag: MSSQL 2012 (beginner)
-    - tag: Windows Server 2012 (beginner)
-    - tag: MaxDB (beginner)
-    - tag: RMAN
-    - tag: Grid/Cloud Control
-    - tag: Shell Scripts
-    - tag: Nagios + Scripts
-    - tag: DB, OS, SAP - Patching and everyday tasks
-  timeline-side: left
-
 - title: Lufthansa Systems
   date: July 2008 - July 2014
   subtitle: SAP/FlexFrame/Database Administrator
@@ -146,7 +127,7 @@
     - tag: Service Center, SCOUT
     - tag: Leading shifts
     - tag: Training colleagues
-  timeline-side: right
+  timeline-side: left
 
 - title: Getronics UK // Barclays Bank UK
   date: 2007 - 2007
@@ -159,4 +140,4 @@
     - tag: AD
     - tag: Citrix
     - tag: Service Center
-  timeline-side: left
+  timeline-side: right
