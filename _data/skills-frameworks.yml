@@ -5,29 +5,18 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: ITIL Foundation Certificate (ITIL V3)
   weight: 5
 
-- name: AngularJS
-  weight: 3
+- name: ITIL Foundation Certificate (ITIL V2)
+  weight: 5
 
-- name: React
+- name: Oracle Database 11g Administrator Certified Associate (OCA)
+  weight: 5
+
+- name: Oracle Certified SQL Expert (1Z0-047 OCE)
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: SAP Certified Technology Associate - SAP HANA 2.0 (SPS00)
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4
