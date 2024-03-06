@@ -126,3 +126,37 @@
     - tag: Nagios + Scripts
     - tag: DB, OS, SAP - Patching and everyday tasks
   timeline-side: left
+
+- title: Lufthansa Systems
+  date: July 2008 - July 2014
+  subtitle: SAP/FlexFrame/Database Administrator
+  tags:
+    - tag: Flexframe (3.2-5.0)
+    - tag: Oracle Database (8i-11g)
+    - tag: Linux (SUSE Linux Enterprise Edition)
+    - tag: SAP BASIS (ABAP+Java)
+    - tag: MaxDB (beginner)
+    - tag: RMAN
+    - tag: Grid/Cloud Control
+    - tag: Shell Scripts
+    - tag: HP OpenView
+    - tag: Enterprise Information Management
+    - tag: Control/M Job Scheduler 
+    - tag: DB, OS, SAP - Patching and everyday tasks
+    - tag: Service Center, SCOUT
+    - tag: Leading shifts
+    - tag: Training colleagues
+  timeline-side: right
+
+- title: Getronics UK // Barclays Bank UK
+  date: 2007 - 2007
+  subtitle: 2nd Level Tech Support in UK
+  tags:
+    - tag: Tivoli
+    - tag: Safeboot
+    - tag: Exchange Admin
+    - tag: MRAS
+    - tag: AD
+    - tag: Citrix
+    - tag: Service Center
+  timeline-side: left
