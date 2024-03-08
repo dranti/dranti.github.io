@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Bash
-  weight: 5
+  weight: 4
 
 - name: C#
   weight: 3

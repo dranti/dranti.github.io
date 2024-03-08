@@ -5,35 +5,32 @@
 # - name: Git
 #   weight: 5
 
-- name: Bash
-  weight: 5
-
 - name: Git
-  weight: 4
-
-- name: Docker
-  weight: 4
-
-- name: Gitlab
-  weight: 4
-
-- name: Github
-  weight: 4
-
-- name: Bitbucket
   weight: 3
 
+- name: Docker
+  weight: 3
+
+- name: Gitlab
+  weight: 3
+
+- name: Github
+  weight: 3
+
+- name: Bitbucket
+  weight: 2
+
 - name: Nagios
-  weight: 4
+  weight: 3
 
 - name: ITIL
-  weight: 5
+  weight: 4
 
 - name: awk
   weight: 3
 
 - name: VS Code
-  weight: 4
+  weight: 3
 
 - name: VI
-  weight: 4
+  weight: 3
