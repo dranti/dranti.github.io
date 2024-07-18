@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Dávid Rézinger
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Personal website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -34,7 +34,14 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description:  am a fast learner and motivated person who grows constantly. I am seeking a full-
+time, long-term, stable position where I can utilize my skills and knowledge. I studied as a System Programmer at school. My hobbies include; writing music, learning musical
+instruments, new technologies, penetration testing, game development and astronomy. I used to teach
+others in various topics. I like to throw myself into different projects, like building
+different Arduino/Raspberry Pi Zero/WH circuits and code different hardwares
+(motion detectors, humidity/temp sensors, IR camera systems, LED displays and so on).
+Lately with the new upcoming VR/AR (XR) technologies I started to develop my own
+VR projects and with it, learning from beginner level C# (In Visual Studio). I also like to tinker with my LLM AI-s and train them. You can find me on LinkedIn; <a class="highlight-link" href="https://www.linkedin.com/in/dávid-rézinger-9a7b524b/" target="_blank" rel="noreferrer"> LinkedIn Profile </a>.
 
 # SKILLS SECTION
 # show_skills_card:
