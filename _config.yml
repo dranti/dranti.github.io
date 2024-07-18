@@ -34,14 +34,13 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description:  am a fast learner and motivated person who grows constantly. I am seeking a full-
-time, long-term, stable position where I can utilize my skills and knowledge. I studied as a System Programmer at school. My hobbies include; writing music, learning musical
+about_me_description: I am a fast learner and motivated person who grows constantly. I am seeking a full-
+time, long-term, stable position where I can utilize my skills and knowledge. I studied as a System Programmer at school. My hobbies include writing music, learning musical
 instruments, new technologies, penetration testing, game development and astronomy. I used to teach
 others in various topics. I like to throw myself into different projects, like building
-different Arduino/Raspberry Pi Zero/WH circuits and code different hardwares
-(motion detectors, humidity/temp sensors, IR camera systems, LED displays and so on).
-Lately with the new upcoming VR/AR (XR) technologies I started to develop my own
-VR projects and with it, learning from beginner level C# (In Visual Studio). I also like to tinker with my LLM AI-s and train them. You can find me on LinkedIn; <a class="highlight-link" href="https://www.linkedin.com/in/dávid-rézinger-9a7b524b/" target="_blank" rel="noreferrer"> LinkedIn Profile </a>.
+different Arduino,Raspberry Pi Zero WH circuits and code different hardwares like motion detectors, humidity, temp sensors, IR camera systems, LED displays and so on.
+Lately with the new upcoming VR and AR technologies I started to develop my own
+VR projects and with it, learning from beginner level "C#" in Visual Studio. I also like to tinker with my LLM AI-s and train them. You can find me on LinkedIn <a class="highlight-link" href="https://www.linkedin.com/in/dávid-rézinger-9a7b524b/" target="_blank" rel="noreferrer"> LinkedIn Profile </a>.
 
 # SKILLS SECTION
 # show_skills_card:
