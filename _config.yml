@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: test
+about_me_description: I am a fast learner and motivated person who grows constantly. I am seeking a full-time, long-term, stable position where I can utilize my skills and knowledge. I studied as a System Programmer at school. My hobbies include writing music, learning musical instruments, new technologies, penetration testing, game development and astronomy. I used to teach others in various topics. I like to throw myself into different projects for example Arduino, Raspberry and code different hardwares like motion detectors, humidity, temp sensors, IR camera systems, LED displays and so on. Lately with the new upcoming VR and AR technologies I started to develop my own VR projects and doing some freelance work for customers. Also I jumped into the latest AI technologies and LLMs, Text, Image, Sound generation and computation, and learning how to train them properly. You can find further information about me on my LinkedIn page: <a class="highlight-link" href="https://www.linkedin.com/in/dávid-rézinger-9a7b524b/" target="_blank" rel="noreferrer">LinkedIn Profile Link</a> 
 
 # SKILLS SECTION
 # show_skills_card:
