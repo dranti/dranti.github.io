@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Dávid Rézinger
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website
+description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -34,13 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a fast learner and motivated person who grows constantly. I am seeking a full-
-time, long-term, stable position where I can utilize my skills and knowledge. I studied as a System Programmer at school. My hobbies include writing music, learning musical
-instruments, new technologies, penetration testing, game development and astronomy. I used to teach
-others in various topics. I like to throw myself into different projects, like building
-different Arduino,Raspberry Pi Zero WH circuits and code different hardwares like motion detectors, humidity, temp sensors, IR camera systems, LED displays and so on.
-Lately with the new upcoming VR and AR technologies I started to develop my own
-VR projects.
+about_me_description: test
 
 # SKILLS SECTION
 # show_skills_card:
