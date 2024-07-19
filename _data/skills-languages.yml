@@ -5,32 +5,11 @@
 # - name: Language
 #   weight: 5
 
-- name: Bash
+- name: English - Professional proficiency (C1)
   weight: 1
 
-- name: C#
+- name: German - Basic (B1)
   weight: 1
 
-- name: Python
-  weight: 1
-
-- name: Ansible
-  weight: 1
-
-- name: Assembly
-  weight: 1
-
-- name: C
-  weight: 1
-
-- name: Java
-  weight: 1
-
-- name: C++
-  weight: 1
-
-- name: HTML
-  weight: 1
-
-- name: PowerShell
+- name: Hungarian - Native
   weight: 1

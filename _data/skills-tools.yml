@@ -5,10 +5,31 @@
 # - name: Git
 #   weight: 5
 
+- name: PostgreSQL DB v11.x - v16.x
+  weight: 1
+
+- name: RedHat 7/8/9 Linux, Debian (bullseye, bookworm), CentOS 7/8, Alpine, SLES
+  weight: 1
+  
+- name: Oracle 8i-12c (RMAN, DG, ASM/FS, Physical Standby/RAC) + Exadata basics
+  weight: 1
+  
+- name: SAP BASIS Netweaver 700-740/4.6C
+  weight: 1
+
+- name: Monitoring; Nagios/Thrusk, Cloud/Grid Control, HP OpenView, Control/M, DBSQWARE, PMS, Wobbler
+  weight: 1
+
+- name: Ticket management tools; JIRA, SCOUT, SNOW, ARS, Service Center/Manager
+  weight: 1
+
 - name: Git
   weight: 1
 
 - name: Docker
+  weight: 1
+
+- name: VWware ESXi
   weight: 1
 
 - name: Gitlab
@@ -29,8 +50,8 @@
 - name: awk
   weight: 1
 
-- name: VS Code
+- name: Shell Scripting
   weight: 1
 
-- name: VI
+- name: Ansible
   weight: 1

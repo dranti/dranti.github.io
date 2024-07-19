@@ -18,33 +18,38 @@
 #   timeline-side: right
 
 - title: Services4-IT
-  title-url: https://example.com/
-  date: July 2023 - Present
+# title-url: https://example.com/
+  date: July 2023 - July 2024
   subtitle: Expert PostgreSQL Database Engineer
   tags:
-    - tag: PostgreSQL (PG 9-12.x - PG 16.x...~)
-    - tag: Docker / Podman
-    - tag: Ansible
-    - tag: Linux (CentOS, RHEL, Debian)
+    - tag: PostgreSQL DB v11.x - v16.x+)
+    - tag: Docker (image deployment, creation, upgrade)
+    - tag: RedHat 7/8/9 Linux, Debian (bullseye, bookworm), CentOS 7/8, Alpine
     - tag: Git
-    - tag: Gitlab
+    - tag: Gitlab (CI/CD)
     - tag: Virtualization
     - tag: Shell Script
-    - tag: Ansible playbooks
+    - tag: WAL-G
+    - tag: Ansible, Ansible playbooks
     - tag: Incident, Change management
     - tag: Deployment of new containers
     - tag: Patching and everyday tasks
-    - tag: ARS
+    - tag: VMware ESXi
+    - tag: Vagrant
+    - tag: AWS
+    - tag: Ticketing Software: ARS, SNOW
+    - tag: ITIL
+    - tag: AGILE
   timeline-side: right
 
-- title: Freelancer / Contractor
+- title: Freelancer
 # title-url: https://example.com/
   date: July 2021 - Present
   subtitle: VR/XR Developer
   tags:
     - tag: Unity 2019-2022 LTS
     - tag: Unreal Engine 5.x (beginner)
-    - tag: C#
+    - tag: C# (beginner)
     - tag: Blender (beginner)
     - tag: HLSL/GLSL
     - tag: Shader Coding
@@ -61,10 +66,11 @@
   tags:
     - tag: PostgreSQL (PG 11.x - 14.x~)
     - tag: Linux (CentOS, RHEL, Debian)
-    - tag: Patroni HA solutions
+    - tag: Patroni clustering and HA solutions
     - tag: Shell Scripts
+    - tag: PgBackRest, pgBadger
     - tag: Nagios
-    - tag: ITIL / Agile
+    - tag: ITIL / AGILE
     - tag: SNOW
     - tag: SQL
     - tag: Patching and everyday tasks
@@ -77,16 +83,21 @@
   tags:
     - tag: PostgreSQL (PG 9.4-11.4)
     - tag: Oracle Database 12c
-    - tag: MariaDB (and JIRA DB migration)
+    - tag: MariaDB (and JIRA DB migration from PostgreSQL)
     - tag: Linux (CentOS, RHEL, Debian)
     - tag: Repmgr replication solutions
     - tag: Shell Scripts
     - tag: Nagios
     - tag: Atlassian JIRA / Confluence
-    - tag: Terradata
+    - tag: Teradata
     - tag: ITIL
+    - tag: AGILE
     - tag: SQL
+    - tag: DBSSQWARE management
+    - tag: Auditing and migration
     - tag: Patching and everyday tasks
+    - tag: Training colleagues
+    - tag: How-To and Wiki documentation creation
   timeline-side: left
 
 - title: HMEI Zrt. (Honvédelmi Minisztérium EI. Zrt.)
@@ -97,7 +108,7 @@
     - tag: Linux (SUSE Linux Enterprise Edition, Debian)
     - tag: SAP BASIS (ABAP+Java Stack)
     - tag: HP Data Protector (10-10.01)
-    - tag: VMware ESXI
+    - tag: VMware ESXi
     - tag: MSSQL 2012 (beginner)
     - tag: Windows Server 2012 (beginner)
     - tag: MaxDB (beginner)
@@ -106,11 +117,12 @@
     - tag: Shell Scripts
     - tag: Nagios + Scripts
     - tag: DB, OS, SAP - Patching and everyday tasks
+    - tag: ITIL
   timeline-side: right
 
 - title: Lufthansa Systems
   date: July 2008 - July 2014
-  subtitle: SAP/FlexFrame/Database Administrator
+  subtitle: SAP/Linux/Database Administrator
   tags:
     - tag: Flexframe (3.2-5.0)
     - tag: Oracle Database (8i-11g)
@@ -125,12 +137,12 @@
     - tag: Control/M Job Scheduler 
     - tag: DB, OS, SAP - Patching and everyday tasks
     - tag: Service Center, SCOUT
-    - tag: Leading shifts
+    - tag: Leading shifts, teamleader
     - tag: Training colleagues
   timeline-side: left
 
 - title: Getronics UK // Barclays Bank UK
-  date: 2007 - 2007
+  date: 2007 Jan - 2007 July
   subtitle: 2nd Level Tech Support in UK
   tags:
     - tag: Tivoli
