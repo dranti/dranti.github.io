@@ -6,17 +6,17 @@
 #   weight: 5
 
 - name: ITIL Foundation Certificate (ITIL V3)
-  weight: 2
+  weight: 1
 
 - name: ITIL Foundation Certificate (ITIL V2)
-  weight: 2
+  weight: 1
 
 - name: Oracle Database 11g Administrator Certified Associate (OCA)
-  weight: 2
+  weight: 1
 
 - name: Oracle Certified SQL Expert (1Z0-047 OCE)
-  weight: 2
+  weight: 1
 
 - name: SAP Certified Technology Associate - SAP HANA 2.0 (SPS00)
-  weight: 2
+  weight: 1
 
