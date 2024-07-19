@@ -37,7 +37,7 @@
     - tag: VMware ESXi
     - tag: Vagrant
     - tag: AWS
-    - tag: Ticketing Software: ARS, SNOW
+    - tag: Ticketing Software; ARS, SNOW
     - tag: ITIL
     - tag: AGILE
   timeline-side: right
