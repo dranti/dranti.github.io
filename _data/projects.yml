@@ -15,19 +15,54 @@
 
 - name: Latest Technologies Used
   descr: "List of technologies and tools I used in the last few years actively."
-  demo: https://example.com/
-  tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
-
-- name: Past Technologies Used
-  descr: "List of technologies and tools I used more than 3-5+ years ago for a very long time."
 # demo: https://example.com/
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: PostgreSQL DB v11.x - v16.x+
+    - tag: RedHat 7/8/9 Linux, Debian (bullseye, bookworm), CentOS 7/8, Alpine
+    - tag: Shell Scripting
+    - tag: Docker (image deployment, creation, upgrade)
+    - tag: Vagrant
+    - tag: Gitlab (CI/CD)
+    - tag: Git
+    - tag: VMWare ESXi Virtualization
+    - tag: WAL-G
+    - tag: AWS
+    - tag: Ansible, Ansible playbooks
+    - tag: Ticketing Software; ARS, SNOW
+    - tag: AGILE Methodology
+    - tag: ITIL Principles  
+
+- name: Past Technologies Used
+  descr: "List of technologies and tools I used 3-5+ years ago for a very long time."
+# demo: https://example.com/
+  tags:
+    - tag: PostgreSQL 9x-16.x (replication, repmgr, pgbackrest, patroni, pgbadger, wal-g...)
+    - tag: Oracle 8i-12c (RMAN, DG, ASM/FS, Physical Standby/RAC) + Exadata basics
+    - tag: RedHat, CentOS, Debian, SLES, Alpine + Kali for troubleshooting
+    - tag: SAP BASIS; Netweaver 700-740/4.6C
+    - tag: MariaDB 10.3.2x
+    - tag: Teradata
+    - tag: Monitoring tools; Nagios/Thrusk, Cloud/Grid Control, HP OpenView, Control/M, DBSQWARE, PMS, Wobbler
+    - tag: Ticket management tools; JIRA, SCOUT, SNOW, ARS, Service Center/Manager and companies own made ticket handlers
+    - tag: VMware ESXi
+    - tag: VSphere (6.5)
+    - tag: Docker
+    - tag: Vagrant
+    - tag: HP DataProtector (v10.00-v10.02)
+    - tag: OpenText (v9.6.x-v9.7.1)
+    - tag: awk
+    - tag: SQL
+    - tag: Fujitsu FlexFrame 3.2/5.0
+    - tag: HP Proliant DL360 in NATO SDIP-27 Certified TEMPEST environment
+    - tag: Git
+    - tag: Gitlab
+    - tag: ITIL
+    - tag: AGILE
+    - tag: MS SQL 2012
+    - tag: DB2
+    - tag: MaxDB 7.6
+    - tag: Sybase
+    - tag: AIX
 
 - name: Languages
 # descr: ""
