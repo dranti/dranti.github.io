@@ -30,6 +30,6 @@
     - tag: Django
 
 - name: Languages
-  descr: "Hungarian - Native\n
-          English - Professional proficiency (C1)\n
+  descr: "Hungarian - Native|
+          English - Professional proficiency (C1)|
           German - Basic (B1)"
